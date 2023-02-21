@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **IT Academy**
 
-- 🌱 I’m currently learning **React and Data sience**
+- 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with **Front End, C++, Data sience**
+- 🤝 I’m looking for help with **Front End**
 
-- 💬 Ask me about **react, vue , C++**
+- 💬 Ask me about **React, Vue , C++**
 
-- 📫 How to reach me **ibrohim.developerku1@gmail.com**
+- 📫 How to reach me **ibrohim.developerku1@gmail.com    +998936677559**
 
 - ⚡ Fun fact **I am really fun**
 
