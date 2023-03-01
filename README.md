@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Front End, C++, Data sience**
 
-- 💬 Ask me about **react, vue , C++**
+- 💬 Ask me about **React, Tailwind , C++**
 
 - 📫 How to reach me **ibrohim.developerku1@gmail.com**
 
